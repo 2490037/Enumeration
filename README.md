@@ -62,7 +62,7 @@ Top level domain expansion
 ## OUTPUT:
 
 
-
+![Alt text](ETH3.png)
 
 
 
@@ -97,7 +97,7 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ##Output
-  
+  ![Alt text](ETH3(1).png)
   
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -106,7 +106,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
-
+![Alt text](ETH3(2).png)
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
